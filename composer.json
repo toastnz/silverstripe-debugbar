@@ -1,5 +1,5 @@
 {
-    "name": "lekoala/silverstripe-debugbar",
+    "name": "toastnz/silverstripe-debugbar",
     "description": "DebugBar for SilverStripe CMS",
     "type": "silverstripe-vendormodule",
     "keywords": [
